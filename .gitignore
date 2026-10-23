@@ -1,0 +1,11 @@
+.env
+.devdoctor-roots.json
+*.db
+.venv/
+__pycache__/
+.pytest_cache/
+quarantine/
+work/
+outputs/
+node_modules/
+*.log
